@@ -21,5 +21,5 @@ After implementing steps I to IV, three main changes have been made in the datas
     c. Created a new column: Delivery Days from Order Data and ship Date.  
 
 ## Technologies
-Microsoft Excel       Version: 2021 
+Microsoft Excel       Version: 2021   
 Microsoft Power BI    Version: 2.105.664.0
